@@ -146,3 +146,86 @@ BHAVITHRA M 24CS036
             border-radius: 20px;
         }
     </style>>
+</head>
+<body>
+    <div class="main1">
+        <img src="Brown background.jpg" id="img1">
+        <div class="main11">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logonetflix.png" id="img2">
+        </div>
+        <div class="main12">
+            <img src="https://cdn.mos.cms.futurecdn.net/rDJegQJaCyGaYysj2g5XWY.jpg" id="img3">
+        </div>
+        <div class="main13">
+            <h1 style="size: 100px;">Endless Entertainment Starts here.</h1>
+            <h1>Plans from Rs.149</h1>
+            <p>Cancel or Switch plans anytime</p>
+        </div>
+        <div class="main14">
+            <table>
+                <tr>
+                    <td>
+                        <select>
+                            <option>தமிழ்</option>
+                            <option>English</option>
+                        </select>
+                    </td>
+                    <td>
+                        <button>Sign in</button>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="main15">
+            <table>
+                <tr>
+                    <td>
+                        <div class="sub1">
+                            <img src="Amaran image.png" class="imageb">
+                            <div class="sub11">
+                                <h1>Amaran</h1>
+                            </div>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="sub1">
+                            <img src="Kanguva image.png" class="imageb">
+                            <div class="sub11">
+                                <h1>Kanguva</h1>
+                            </div>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="sub1">
+                            <img src="Goat image.png" class="imageb">
+                            <div class="sub11">
+                                <h1>Leo</h1>
+                            </div>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="sub1">
+                            <img src="https://i.pinimg.com/736x/cf/a3/b4/cfa3b490dd23120b0d44139f9bad9c99.jpg" class="imageb">
+                            <div class="sub11">
+                                <h1>Vidamuyarchi</h1>
+                            </div>
+                        </div>  
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="main16">
+            <table>
+                <tr>
+                    <td>
+                        <input type="email" placeholder="Enter mail here">
+                    </td>
+                    <td>
+                        <button>Submit</button>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</body>
+</html>
